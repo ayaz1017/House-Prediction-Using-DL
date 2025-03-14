@@ -1,6 +1,5 @@
 House Price Prediction using Artificial Neural Networks (ANN)
 This project implements a house price prediction model using an Artificial Neural Network (ANN). The model is trained on housing data and aims to predict house prices based on various features.
-
 📌 Features
 Data preprocessing: Handling missing values and encoding categorical variables.
 Feature scaling using MinMaxScaler.
